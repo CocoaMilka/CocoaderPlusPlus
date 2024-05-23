@@ -1,0 +1,13 @@
+.vs/
+bin/
+obj/
+x64/
+Generated Files/
+
+# Ignore all DLL files
+*.dll
+
+# Other build artifacts
+bin/
+obj/
+*.pdb
